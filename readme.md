@@ -59,7 +59,6 @@ Then open your browser and go to `http://localhost:5173`.
 
 ![Sushi Website Preview](preview.png)
 
-> _This screenshot shows the homepage layout with hero section, sushi cards, and footer._
 
 ---
 
